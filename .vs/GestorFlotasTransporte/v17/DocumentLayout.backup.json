@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|c:\\users\\hsuaz\\source\\repos\\gestorflotastransporte\\gestorflotastransporte\\models\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|solutionrelative:gestorflotastransporte\\models\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|c:\\users\\hsuaz\\source\\repos\\gestorflotastransporte\\gestorflotastransporte\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|solutionrelative:gestorflotastransporte\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|c:\\users\\hsuaz\\source\\repos\\gestorflotastransporte\\gestorflotastransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\gestorflotastransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B418AEA7-A4C7-4AEA-BB82-14FE02898326}|GestorFlotasTransporte\\GestorFlotasTransporte.csproj|solutionrelative:gestorflotastransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\GestorFlotasTransporte\\Models\\Conductor.cs",
+              "RelativeDocumentMoniker": "GestorFlotasTransporte\\Models\\Conductor.cs",
+              "ToolTip": "C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\GestorFlotasTransporte\\Models\\Conductor.cs",
+              "RelativeToolTip": "GestorFlotasTransporte\\Models\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:35:42.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Vehiculos.cs",
               "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\GestorFlotasTransporte\\Models\\Vehiculos.cs",
               "RelativeDocumentMoniker": "GestorFlotasTransporte\\Models\\Vehiculos.cs",
@@ -39,15 +56,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\GestorFlotasTransporte\\Form1.cs",
               "RelativeDocumentMoniker": "GestorFlotasTransporte\\Form1.cs",
               "ToolTip": "C:\\Users\\Hsuaz\\source\\repos\\GestorFlotasTransporte\\GestorFlotasTransporte\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "GestorFlotasTransporte\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:30:22.844Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-20T06:30:22.844Z"
             }
           ]
         }
